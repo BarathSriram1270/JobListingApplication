@@ -1,0 +1,9 @@
+# Ignore node_modules and build files
+UISpringMongodb/node_modules/
+UISpringMongodb/build/
+
+# Ignore Java target files
+SpringMongoDB/target/
+
+# Ignore environment files
+*.env
